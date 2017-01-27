@@ -1,0 +1,15 @@
+{
+    "name": "Test-PHP",
+    "license": "MIT",
+    "type": "project",
+    "description": "This is a project to help student to learn tests",
+    "autoload": {
+        "psr-4": { "MMI\\":"src\ " }
+    },
+    "require": {
+        
+    },
+    "require-dev": {
+        
+    }
+}
